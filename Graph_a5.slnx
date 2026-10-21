@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Graph_a5/Graph_a5.vcxproj" Id="eb2a7428-512f-4d1e-a1da-4967296b451e" />
+</Solution>

@@ -1,0 +1,13 @@
+12
+1 Amenajare_cai_acces 7 0
+2 Sapare_santuri_fundatie 3 1 1
+3 Construire_structura_rezistenta 8 1 2
+4 Montaj_instalatii_sanitare_si_electrice 2 1 3
+5 Montaje_usi_si_ferestre 3 1 3
+6 Montare_schela 1 1 3
+7 Realizare_fatada 3 1 6
+8 Zugraveala_interioara 2 2 4 5
+9 Amenajari_interioare 1 1 8
+10 Demontare_schela 1 1 7
+11 Curatenie 2 2 9 10
+12 Imprejmuiri 3 1 1
